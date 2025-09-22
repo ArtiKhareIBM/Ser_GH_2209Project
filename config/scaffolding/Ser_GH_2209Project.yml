@@ -12,3 +12,8 @@ packages:
   gitUrl: https://gitlab.com/ArtiKhareGitlabnew
   gitUsername: ArtiKhareGitlabnew
   gitBranch: master
+- name: LowerFSPackage
+  gitServerName: srcGithubCtrl_Arti
+  gitUrl: https://github.com/ArtiKhareIBM
+  gitUsername: ArtiKhareIBM
+  gitBranch: main
